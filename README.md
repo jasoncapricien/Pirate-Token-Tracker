@@ -39,10 +39,6 @@ The overlay should appear near the top-right of the screen and stay above other 
 
 The tracker window can be minimized while you play; the hotkeys will continue to work. Keep the program running, because closing the overlay stops the tracker. Use the window's **-** button (minimize) to close it.
 
-## Local data
-
-Completed games are saved to `game_log.csv`, and the current game's chest count is saved to `active_game.json`, next to the program. These files are local and ignored by Git so your play history is not included when you publish code. Back them up separately if you want to preserve your records.
-
 ## Feedback
 
 This project is in beta, so reports of bugs, ideas, and other suggestions are welcome. Please open a GitHub issue with steps to reproduce any problem when possible. Do not include API keys, passwords, or other sensitive information in an issue.
