@@ -37,7 +37,7 @@ The overlay should appear near the top-right of the screen and stay above other 
 - **Ctrl+Alt+C** — add one chest to the current game.
 - **Ctrl+Alt+G** — finish the current game and save its chest count.
 
-The tracker window can be minimized while you play; the hotkeys will continue to work. Keep the program running, because closing the overlay stops the tracker. Use the window's **X** button to close it.
+The tracker window can be minimized while you play; the hotkeys will continue to work. Keep the program running, because closing the overlay stops the tracker. Use the window's **-** button (minimize) to close it.
 
 ## Local data
 
